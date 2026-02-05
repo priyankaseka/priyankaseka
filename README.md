@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Priyanka 👋
 
-<!--
-**priyankaseka/priyankaseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+Backend & GenAI Developer with a strong focus on building scalable APIs
+and AI-powered applications using Python and Django.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- Django / Django REST Framework
+- MySQL, MongoDB
+- GenAI (LLMs, Prompt Engineering)
+- Power BI
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Django backend projects
+- GenAI-powered applications
+- API development and database design
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (optional)
