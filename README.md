@@ -18,5 +18,5 @@ and AI-powered applications using Python and Django.
 - API development and database design
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: (https://www.linkedin.com/in/priyanka-sekar-36143733b/)
+- Email: (sekarpriyanka212@gmail.com)
